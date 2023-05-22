@@ -2,6 +2,9 @@
 
 The dashboard “Airbnb Data Analysis – Dublin” is designed for individual property investors, as well as landlords, who want to analyze the Dublin Airbnb data, and hence, decide on whether to invest in buying a new property in Dublin and if so where and what kind of property to purchase. Also, the dashboard facilitates decision-making on the marketing strategy of the listings (e.g., naming, pricing, the minimum number of nights to let, etc.). This is an exploratory dashboard, which enables users to explore Airbnb data in an interactive and visual way. It also enables users to identify patterns and trends quickly and effectively. Thus, the user’s role with this dashboard is to explore and analyze the data to drive insights using various filtering and other interactive elements that the dashboard presents. Possible use case scenarios for this dashboard are indicated later in this report.
 
+#### Screeshot of the dashboard:
+![Screenshot of the dashboard](https://github.com/parvinnabili/Project4/blob/7d7d0f32b80725cbda19e5fb57508e91d5eba86f/Dashboard%20screenshot.png)
+
 The KPIs that this dashboard presents are as follows:
 * Occupancy rate - Percentage of booked nights for a listing in a given year, calculated as:
 Booked nights per listing in a year/365 * 100
@@ -51,6 +54,3 @@ If a host has private rooms to let in the Fingal area, they can select relevant 
 
 ### Potential use scenario #2:
 If a property investor is trying to decide where to buy a property to further let in Airbnb, they can do this by selecting different Neighborhood filters and analyzing each. By doing so, they will be able to identify the neighborhoods with maximum and minimum occupancy rates, profitability, and the number of listings in each neighborhood. Also, with the use of the number of hosts by listing count, investors can identify the market leaders, and hence, determine their own market entrance strategy. 
-
-#### Screeshot of the dashboard:
-![Screenshot of the dashboard](https://github.com/parvinnabili/Project4/blob/7d7d0f32b80725cbda19e5fb57508e91d5eba86f/Dashboard%20screenshot.png)
