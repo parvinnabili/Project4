@@ -52,5 +52,5 @@ If a host has private rooms to let in the Fingal area, they can select relevant 
 ### Potential use scenario #2:
 If a property investor is trying to decide where to buy a property to further let in Airbnb, they can do this by selecting different Neighborhood filters and analyzing each. By doing so, they will be able to identify the neighborhoods with maximum and minimum occupancy rates, profitability, and the number of listings in each neighborhood. Also, with the use of the number of hosts by listing count, investors can identify the market leaders, and hence, determine their own market entrance strategy. 
 
-Screeshot of the dashboard:
+#### Screeshot of the dashboard:
 ![Screenshot of the dashboard](https://github.com/parvinnabili/Project4/blob/7d7d0f32b80725cbda19e5fb57508e91d5eba86f/Dashboard%20screenshot.png)
